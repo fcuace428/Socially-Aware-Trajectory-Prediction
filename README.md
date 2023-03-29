@@ -5,7 +5,7 @@ The data set that is used in this project are [TITAN](https://usa.honda-ri.com/t
 ```
 ## Data processing
 ```
-python data_spilit.py
+python data_split.py
 ```
 ## Train
 ```
