@@ -1,21 +1,20 @@
-# Socially-Aware-Trajectory-Prediction
+## Socially-Aware-Trajectory-Prediction
+<div align="center">
+<img src="picture/model architecture.png" width="45%">
+</div>
 ## Dataset
 ```
 The data set that is used in this project are [TITAN](https://usa.honda-ri.com/titan)
 ```
 ## Data processing
 ```
-python data_split.py
+python data_preprocessing.py
 ```
 ## Train
 ```
-python train.py
+python train_code.py
 ```
 ## Evaluate
 ```
-python eval.py
-```
-## Visualization
-```
-python draw_result.py
+python eval_code.py
 ```
