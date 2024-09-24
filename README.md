@@ -1,5 +1,7 @@
 ## Socially-Aware-Trajectory-Prediction
-<img src="picture/model architecture.png" width="45%">
+<div align="center">
+<img src="picture/model architecture.png">
+</div>
 
 ## Dataset
 ```
