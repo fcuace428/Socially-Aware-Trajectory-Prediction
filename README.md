@@ -8,6 +8,11 @@ The upcoming prediction of road agent positions is a crucial task in intelligent
 ```
 The data set that is used in this project are [TITAN](https://usa.honda-ri.com/titan)
 ```
+## Environment settings
+```
+cd Socially-Aware-Trajectory-Prediction
+conda env create --file requirements.yaml --name <your env name>
+```
 ## Data processing
 ```
 python data_preprocessing.py
