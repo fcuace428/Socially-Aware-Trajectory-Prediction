@@ -1,6 +1,6 @@
 ## Socially-Aware-Trajectory-Prediction
-<div align="center">
 <img src="picture/model architecture.png" width="45%">
+
 ## Dataset
 ```
 The data set that is used in this project are [TITAN](https://usa.honda-ri.com/titan)
